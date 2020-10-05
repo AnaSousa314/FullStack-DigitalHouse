@@ -1,0 +1,8 @@
+git add
+
+git status //mostra todos os dados, se existe algum arquivo que não foi adicionado
+
+git add "nomeDoArquivoAAdicionar"
+
+git add .  //adiciona todos os arquivos criados e alterados
+
