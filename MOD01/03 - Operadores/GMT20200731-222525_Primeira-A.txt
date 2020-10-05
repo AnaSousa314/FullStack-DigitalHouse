@@ -1,0 +1,675 @@
+00:44:07	Luiz Fernando de Oliveira Rodrigues:	Boa noite!
+00:44:15	clayton paiva da silva:	assim que eu refizer vou subir para o meu github!
+00:44:20	Jaime Cândido Dourado Alves:	Boa noite
+00:44:21	Rafael Teixeira:	Boa noite a todos
+00:44:33	William Gonçalves:	fiz o 1,2,3,4, pulei o 5, 6, 7, fiz o 8 kkk
+00:44:37	Monitora Manuella Teixeira:	Boa noite, pessoal! Sou a monitora desta aula... em caso de dúvidas, podem me chamar :)
+00:44:38	Ramon Gomes:	Boa noite galera
+00:44:54	Ramon Gomes:	opa
+00:45:00	Willian Fernando Lopes:	Boa noite Manu. Obrigado a disposição em ajudar.
+00:45:09	Monitora Manuella Teixeira:	A enquete de presença será acessada no ambiente de aprendizagem, ok? Avisarei quando for liberada.
+00:45:18	Fred Carderaro:	Boa noite pra todos!!
+00:45:18	clayton paiva da silva:	ok
+00:45:29	Sidney Gomes de Aquino:	Boa noite. Vamos que vamos!
+00:45:43	Monitora Manuella Teixeira:	Caso queiram mandar as mensagens do chat a todos que estão na turma, selecionem, por gentileza, a opção "All panelists and attendees". 
+00:45:45	RICARDO FERREIRA DOS SANTOS:	Boa noite a todos
+00:47:29	Thiago Ramos:	boa noite
+00:47:50	Renata Mendes:	Boooa noite galerinha do bem
+00:47:54	ELIAS NOGUEIRA:	Boa noite pessoal.
+00:47:56	Filipe Matias:	oi cambio
+00:47:59	William Gonçalves:	eu sou mau
+00:48:11	Ramon Henrique Palmeira Santos:	Hello World
+00:48:26	Everton Souza:	Hello
+00:48:28	Guilherme Corrêa Souza:	boa noite!!
+00:48:39	Victor Luiz Bernardes da Silva:	BOa
+00:48:43	Filipe Matias:	ola HOUSTON
+00:48:44	Renato Mendes Viegas:	console.log('Boa noite');
+00:48:49	Renato Mendes Viegas:	eita!
+00:48:53	Guilherme Corrêa Souza:	opa
+00:48:55	Guilherme Corrêa Souza:	sim
+00:48:55	Tiago Kemberli Oliveira Fonseca:	Boa noite, te vemos
+00:48:55	Everton Souza:	sim
+00:48:56	Fabiano Lopes Viana:	sim
+00:48:56	Filipe Matias:	sim
+00:48:57	gustavo henrique antonio:	boa noite
+00:48:57	TARCISIO CESAR SANTOS:	upa
+00:48:57	Carlos Eduardo Germano de Souza Carlos Eduardo Germano de Souza:	sim !
+00:49:00	willian vieira:	boa noite professor
+00:49:01	Tiago Kemberli Oliveira Fonseca:	Sim
+00:49:02	Leandro Souza:	sim
+00:49:02	Fabiano Lopes Viana:	sim
+00:49:02	Luccas Adriano da Rocha Santos:	boa noite
+00:49:03	Luccas Adriano da Rocha Santos:	sim
+00:49:06	Guilherme Corrêa Souza:	os slids nao
+00:49:06	clayton paiva da silva:	ok
+00:49:07	Paulo Uchôa:	boa noite professor
+00:49:13	RICARDO FERREIRA DOS SANTOS:	ouvindo bem
+00:49:19	Livia Mattos:	alguem pode passar o grupo do telegram?
+00:49:24	Tiago Kemberli Oliveira Fonseca:	Tá bom o audio
+00:49:25	Rodrigo de Souza Lima Gomes Gomes:	ta suave
+00:49:26	Thiago Ramos:	áudio bom
+00:49:26	Ramon Gomes:	ta bom
+00:49:27	Matheus Araújo:	tá bom
+00:49:28	gustavo henrique antonio:	tranquilo o audio
+00:49:33	Diego Souza:	Boa noite Professor
+00:49:34	Diego Veiga:	tranquilo
+00:50:05	Sadu Toledo de Souza:	boa noite a todos
+00:50:22	Diego Souza:	Boa noite a todos aqui 
+00:50:35	Willian Fernando Lopes:	Fica tranquilo: dormir ninguém vai. Mas de repente tem uma saída pra uma gelada. ;-)
+00:50:41	Ramon Henrique Palmeira Santos:	O que acharam do trabalho prático?
+00:50:47	Wellington Rodrigues:	Nao estou ouvindo como faz para ativar o audio?
+00:51:00	William Gonçalves:	sextou
+00:51:29	Rodrigo de Souza Lima Gomes Gomes:	eu tive muita dificuldade de assisitr as aulas porque nao consegui configurar o nodejs... mas resolvi hoje a tarde e vou pegar a pratica agora a noite, Ramon
+00:53:16	Luis Carlos Yamauchi:	O nosso prazo já era de domingo
+00:53:24	Thiago Ramos:	Me add no linkedinhttps://www.linkedin.com/in/thiago-ramos-da-rosa-9b76ba23/
+00:53:26	Sidney Gomes de Aquino:	mas o trabalho prático era domingo já
+00:53:38	Ramon Henrique Palmeira Santos:	https://www.linkedin.com/in/ramonhenriquepalmeira/
+00:53:38	Guilherme Corrêa Souza:	https://t.me/joinchat/FgYoaxaUW1iOLD_ur5AU9Q 
+00:55:30	Everton Souza:	acho que foi foda a respeito do node que so pode apartir do 12.18 pra ficar bacana nas aulas
+00:55:48	Everton Souza:	sendo que meu node era de abril e não rodava
+00:56:02	Tutor Odivaney Ramos:	https://github.com/geovannyAvelar/Dados-Abertos-Campeonato-Brasileiro
+00:56:29	Everton Souza:	tive abaixa tudo denovo
+00:56:56	Gabriely Vitoria Cruz da Silva Gabriely Vitoria Cruz da Silva:	Eu também uso uma versão antiga do node, mas pesquisei sobre oq não conseguia usar e achei outras opções para versões antigas 
+00:57:17	Carlos Eduardo Germano de Souza Carlos Eduardo Germano de Souza:	para usar promises na versão do nó 10
+00:57:19	Carlos Eduardo Germano de Souza Carlos Eduardo Germano de Souza:	eu fiz isso
+00:57:19	Carlos Eduardo Germano de Souza Carlos Eduardo Germano de Souza:	import {default as fsWithCallbacks} from 'fs'const fs = fsWithCallbacks.promises;
+00:57:24	Carlos Eduardo Germano de Souza Carlos Eduardo Germano de Souza:	ai consegui utilizar
+00:57:25	Zandra Monteiro:	https://www.linkedin.com/in/zandramonteiro/
+00:57:37	Renato Mendes Viegas:	Se precisar de mais uma versão... utilizem o NVM
+00:57:48	Everton Souza:	sim eu coloquei
+00:57:56	Everton Souza:	e depois abaixei denovo
+00:57:56	Carlos Eduardo Germano de Souza Carlos Eduardo Germano de Souza:	também uso a flag 
+00:57:58	Renato Mendes Viegas:	O NVM é simples de usar
+00:57:59	Diego Souza:	eu acho que vou tomar pau na disciplina, tenho pouquíssimo conhecimento em Node
+00:58:01	Carlos Eduardo Germano de Souza Carlos Eduardo Germano de Souza:	--experimental-module
+00:58:03	Gabriely Vitoria Cruz da Silva Gabriely Vitoria Cruz da Silva:	Eu usei promisify
+00:58:17	Zandra Monteiro:	prof., para atualizar, tem q desinstalar? ou pode só instalar em cima?
+00:58:19	Rodrigo de Souza Lima Gomes Gomes:	a minha versao rodou quando eu troquei o import por require
+00:58:29	Diego Veiga:	nvm é bom mesmo, mais fácil de instalar e desinstalar
+00:58:31	Everton Souza:	ai instalei o choco pra ficar autulizando
+00:58:44	Everton Souza:	atualizando*
+00:58:48	Itamar do Prado:	https://www.linkedin.com/in/itamar-do-prado-20149a26/
+00:59:24	Denilson Câmara:	com o chocolatey é melhor mesmo, pra manter a versão atualizada
+00:59:34	Leandro Souza:	cruzeiroooo
+00:59:56	Renato Mendes Viegas:	https://medium.com/@fabiojanio/nvm-gerencie-m%C3%BAltiplas-instala%C3%A7%C3%B5es-do-node-js-6fcd0f13aaf7
+01:00:31	clayton paiva da silva:	Boa!!!!!
+01:01:35	Renato Mendes Viegas:	Vasco já começou perdendo... aff
+01:01:44	clayton paiva da silva:	kkkkkkkkkkkkkkkkkkkk
+01:01:46	Vanderléia da Silva Montenegro:	kkk
+01:01:46	Gregory Gouveia:	hahahahaha
+01:01:54	Diego Souza:	kkkkkkkk
+01:02:04	willian vieira:	campeoa nao sei só sei que nao foi o Palmeiras
+01:02:28	Diego Souza:	Pow Willian... kkkk
+01:02:53	Diego Souza:	2003 foi o cruzeiro
+01:03:27	Ramon Henrique Palmeira Santos:	Gr\u00eamio
+01:03:40	Renato Mendes Viegas:	kkkk
+01:03:54	Sidney Gomes de Aquino:	acentos bugados
+01:04:06	willian vieira:	naquele tempo ainda exisitia Cruzeiro neh kkkk
+01:04:17	willian vieira:	lamentavel o que fizeram com o time 
+01:04:18	Zandra Monteiro:	as partidas estão dentro das rodadas?
+01:04:27	Denilson Câmara:	foco no assunto da aula
+01:04:29	Diego Veiga:	2011
+01:04:34	Cristiano de Almeida Souza:	2009
+01:04:36	Ramon Henrique Palmeira Santos:	2014
+01:04:38	Sidney Gomes de Aquino:	2015
+01:04:38	Renato Mendes Viegas:	kkkk
+01:04:39	willian vieira:	2014
+01:04:39	Diego Souza:	2014
+01:04:40	Filipe Matias:	2014
+01:04:40	Sidney Gomes de Aquino:	kkkk
+01:04:40	Renata Mendes:	2013
+01:04:41	Thiago Ramos:	hahahahahaha
+01:04:41	Filipe Matias:	2014
+01:04:41	Everton Souza:	2010
+01:04:42	Filipe Matias:	2014
+01:04:42	Peterson Roberto de Pauli:	2014
+01:04:43	Cristiano Aparecido Lázaro:	2014
+01:04:43	Willian Fernando Lopes:	Ano que o Palmeiras foi campeão!
+01:04:44	Gregory Gouveia:	hahahahaha
+01:04:44	Matheus Cardoso:	kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+01:04:44	Vanderléia da Silva Montenegro:	2014
+01:04:45	Leandro Souza:	cruzeiroooo
+01:04:45	Everton Souza:	2007
+01:04:45	Itamar do Prado:	2014
+01:04:46	Ramon Gomes:	2014
+01:04:46	Thiago Ramos:	tudo Cruzeiro!
+01:04:46	Diego Veiga:	kkkkkkkkkkkkkkk
+01:04:47	Paulo Eduardo Heitor Silva:	2005
+01:04:47	Cristiano de Almeida Souza:	2009
+01:04:47	William Carvalho:	kkkkkkk
+01:04:48	Douglas Vallinhos:	2014
+01:04:48	Paulo Eduardo Heitor Silva:	2006
+01:04:49	Rafael Teixeira:	futebol zzzzzzzzzz
+01:04:50	Everton Souza:	2007
+01:04:50	Leandro Souza:	kkkkkkkkk
+01:04:50	Matheus Cardoso:	boa Cabuloso
+01:04:51	Paulo Eduardo Heitor Silva:	2007
+01:04:51	Ramon Henrique Palmeira Santos:	cruzeiro
+01:04:52	Ramon Henrique Palmeira Santos:	kkkk
+01:04:52	marcos rafael mota campinho:	2014
+01:04:52	marcelo da silva velame:	15
+01:04:52	Guilherme Corrêa Souza:	KKKKKKKKKKKKKKKKKKKKKKKk
+01:04:54	Guilherme Corrêa Souza:	KKKKKKKKKKKKKKKKKKKKKK
+01:04:57	Sidney Gomes de Aquino:	2015
+01:04:58	willian vieira:	kkkkkk
+01:04:58	Paulo Eduardo Heitor Silva:	pode ser ano passado
+01:05:00	Paulo Eduardo Heitor Silva:	melhor ano
+01:05:00	Sidney Gomes de Aquino:	kkkkkkk
+01:05:01	LUCAS HENRIQUE FIRMINO RODRIGUES SILVA:	2007 POW
+01:05:03	willian vieira:	e 2019 como foi?
+01:05:06	Danilo de Cavalho Silva:	ano que o vasco caiu kkkkkkkkkkk
+01:05:11	Diego Souza:	2003 foi o cruzeiro
+01:05:13	LUCAS HENRIQUE FIRMINO RODRIGUES SILVA:	FAZ TEMPO QUE NÃO VEJO MEU SÃO PAULO SER CAMPEÃO KKKKK
+01:05:14	Paulo Eduardo Heitor Silva:	letra B
+01:05:21	Alex do Nascimento de Sousa:	MULECAGEM
+01:05:22	willian vieira:	uahauhuhauhahua
+01:05:23	Vanderléia da Silva Montenegro:	fla
+01:05:24	Sidney Gomes de Aquino:	2011 ou 2015, pô
+01:05:24	Raphael Torres:	união flasco kkk
+01:05:28	Marcelo Leal:	2005 tem a máfia do apito
+01:05:28	Gabriel Vicente:	odeio futebol
+01:05:30	Gabriel Vicente:	to entendendo nada
+01:05:32	Gabriel Vicente:	kkkkk
+01:05:38	Antonio Marques:	auauahuahuhua 2 Gabriel 
+01:05:42	Tiago Kemberli Oliveira Fonseca:	3
+01:05:43	Rafael Teixeira:	3
+01:05:44	Bruna da Cruz Chiochetta:	tmj gabriel
+01:05:53	Daniel Nunes da Cruz:	kkkkkkkkkkk somos 6
+01:05:54	Gabriel Vicente:	oo//
+01:05:55	Renato Mendes Viegas:	Vitoria = 3 pontos | Empate = 1 | Derrota = VEXAME]
+01:06:08	Antonio Marques:	vim pq disseram q vai ter briga /brinks
+01:06:09	Renato Mendes Viegas:	essas são as regras
+01:06:36	Alex do Nascimento de Sousa:	falta o type: module
+01:06:38	Alex do Nascimento de Sousa:	isso
+01:06:48	Luis Milanese:	Parabéns para os que odeiam futebol. Uhul, parabéns. Tome uma taça para vcs \|/
+01:06:49	Tiago Neves:	2003 ano Cruzeiro cabuloso.
+01:06:50	Antonio Marques:	vlw Renato, cheguei um pouco atrasado 
+01:06:54	Matheus Cardoso:	Cruzeiro Campeão (03,13,14), pra galera que não entendeu 
+01:06:56	LUCAS HENRIQUE FIRMINO RODRIGUES SILVA:	DERROTA = SÃO PAULO
+01:07:26	Gustavo Moreira:	Galera, foca na aula. Pode ser? Criem uma sala no Discord depois pra quem quer falar sobre futebol (Y)
+01:07:29	Zandra Monteiro:	react já é o próximo módulo?
+01:07:39	Andrei Soares Torres:	esse "type": "module" da pra introduzir pelo terminal se não usar -y?
+01:07:44	Danilo de Cavalho Silva:	concordo Gustavo
+01:07:48	Denilson Câmara:	pessoal ta pensando que é chat de bate papo uol
+01:08:08	Renato Mendes Viegas:	esse "type": "module" da pra introduzir pelo terminal se não usar -y?  Não
+01:08:19	Diego Souza:	dá sim @renato
+01:08:30	Diego Souza:	o -y é só pra dar sim em tudo
+01:08:43	Diego Souza:	depois você tem que colocar o "type": "module"
+01:08:44	Diego Souza:	manual
+01:08:45	Raphael Torres:	js tem 3 versão nova por dia..
+01:08:46	Livia Mattos:	alguém tem o link pro grupo de telegram?
+01:08:51	Renato Mendes Viegas:	Ah, desculpa, faltou o Sei
+01:08:52	Diego Souza:	no package.json
+01:09:02	Monitora Manuella Teixeira:	Aos que pediram o link do git:https://github.com/geovannyAvelar/Dados-Abertos-Campeonato-Brasileiro
+01:09:08	Zandra Monteiro:	se eu instalar desinstalar meu node e instalar outra versão, vai dar problema nos meus projetos antigos?
+01:09:20	Renato Mendes Viegas:	altera dentro do package.json
+01:09:28	Bruno da Silva Amorim:	na versao 14 vai direto
+01:09:38	Diego Souza:	isso, depois da license, você coloca o type
+01:09:40	Renato Mendes Viegas:	Zandra, instale o NVM, para poder ficar sossegada
+01:09:59	Carlos Eduardo Germano de Souza Carlos Eduardo Germano de Souza:	vou instalar o NVM ...
+01:10:23	Zandra Monteiro:	vou instalar. isso é oq?
+01:10:36	Renato Mendes Viegas:	É o gerenciador de nodes da máquina...
+01:10:38	Diego Souza:	NVM, acho que é Node Virtual Machine
+01:10:46	Guilherme Corrêa Souza:	Link do grupo: https://t.me/joinchat/FgYoaxaUW1iOLD_ur5AU9Q telegram
+01:10:54	Diego Souza:	são maquinas virtuais, que irão gerenciar suas versões de Node
+01:11:17	Zandra Monteiro:	pq dá medo instalar versão nova e dar problema nos projetos antigos q eu tenho
+01:11:22	Luis Gustavo Santos:	Nvm https://github.com/nvm-sh/nvm
+01:11:26	Pedro Henrique Silveira:	https://github.com/geovannyAvelar/Dados-Abertos-Campeonato-Brasileirohttps://github.com/geovannyAvelar/Dados-Abertos-Campeonato-Brasileiro
+01:11:45	Renato Mendes Viegas:	Este artigo é muito bom:
+https://medium.com/@fabiojanio/nvm-gerencie-m%C3%BAltiplas-instala%C3%A7%C3%B5es-do-node-js-6fcd0f13aaf7
+01:11:57	Carlos Eduardo Germano de Souza Carlos Eduardo Germano de Souza:	só vou usar o NVM pq trabalho com outros projetos na versão 10 do node
+01:12:54	Renato Mendes Viegas:	exato... é moleza utilizar... é mais fácil do que derrubar bêbado em ladeira
+01:13:00	Luccas Adriano da Rocha Santos:	ta bom
+01:13:01	willian vieira:	ok obrigado professor
+01:13:03	Carlos Eduardo Germano de Souza Carlos Eduardo Germano de Souza:	:D
+01:13:06	clayton paiva da silva:	kkk
+01:13:09	Najla Acemel Galvao:	ótimo.
+01:13:12	Luccas Adriano da Rocha Santos:	blz professor
+01:13:13	Willian Fernando Lopes:	Galera, usa o OneNote pra ir dando print nas telas e anotando as observações. #ficaDica
+01:13:13	Diego Souza:	kkkkkkkkk
+01:13:18	Diego Souza:	blza professor
+01:13:35	LUCAS HENRIQUE FIRMINO RODRIGUES SILVA:	EU GRAVO A TELA KKK
+01:13:47	Bianca Maiara Rodrigues:	como?
+01:13:49	gustavo henrique antonio:	dois kkkk
+01:13:53	Bianca Maiara Rodrigues:	eu tentei e não consegui
+01:13:55	Bianca Maiara Rodrigues:	kkkkkkk
+01:13:55	Thiago Ramos:	Windows + Alt + R no Windows 10, grava a tela automático
+01:13:57	Diego Souza:	eu faço anotação a mão
+01:14:07	Bianca Maiara Rodrigues:	eu fiz assim, mas não salvou
+01:14:33	Brenda SILVA:	oq é fs?
+01:14:38	Willian Fernando Lopes:	Tenta Audials Tune Bite.
+01:14:46	Gabriel Vicente:	filesystem
+01:14:55	Diego Souza:	é um módulo de sistema de arquivos
+01:15:00	Diego Souza:	criação, leitura... etc
+01:15:08	Brenda SILVA:	valeu
+01:15:09	Alex do Nascimento de Sousa:	Fica difícil acompanhar o chat, a galera não assiste as aulas e vem tirar dúvidas aqui
+01:15:24	Afonso Antunes Costa Junior:	Audio ta cortando ai pra vocês também?
+01:15:29	Alex do Nascimento de Sousa:	de coisas que estão nas aulas gravadas
+01:15:30	Pedro Paulo Ferreira Santos:	Não
+01:15:34	Renato Mendes Viegas:	não
+01:15:35	Sidney Gomes de Aquino:	áudio normal
+01:15:35	Rodrigo de Souza Lima Gomes Gomes:	audio ta de boa, afonso
+01:15:44	Afonso Antunes Costa Junior:	Valeu, Galera!
+01:15:50	Rodrigo de Souza Lima Gomes Gomes:	feshow
+01:17:50	Willian Fernando Lopes:	async/await com try/catch fica muito próximo de C# e .NET.
+01:17:54	Antonio Marques:	bacana que ele sempre usa o try catch
+01:18:06	Guilherme de Andrade Castro Vieira:	Callback hell hahaha
+01:18:08	David Meth:	obervables não seria mehor não?
+01:18:19	Renato Mendes Viegas:	mas ele não usou o try catch
+01:18:59	Antonio Marques:	nas aulas ele usou, achei que foss eusar aqui tbm
+01:20:18	David Meth:	const data = () => await fs.readfile("2003.json")
+01:20:41	David Meth:	const data = async () => await fs.readfile("2003.json")
+01:20:55	Renata Mendes:	 Mas eu acho que é sempre bom usar
+01:21:00	Renato Mendes Viegas:	agora sim!
+01:21:01	Renata Mendes:	compreender bem a captura de erro
+01:21:16	Renata Mendes:	ainda mais pra quem ta pegando a linguagem agora
+01:21:48	Vitor Shimura:	por que quando executa o script com nodemon, o node entra em loop infinito ao criar arquivos Json com o fs?
+01:21:49	Pedro Paulo Ferreira Santos:	Renata Mendes e Renato Mendes, que coincidência kkkk
+01:22:07	Renata Mendes:	Renato? Sério?
+01:22:12	Renato Mendes Viegas:	Yes
+01:22:13	Renato Mendes Viegas:	kkkk
+01:22:25	Renata Mendes:	Sucesso aí, XD
+01:22:34	Luiz Carvalho dos Santos Neto:	se a variável data for declarada fora da função init mas atribuir valor a ela dentro da init, se escrever fora da init ela fica vazia?
+01:23:21	Vinicius Paulino:	além dessa diferença existe alguma outra vantagem ou só preferencia mesmo ?
+01:23:35	Renato Mendes Viegas:	deve ter um await antes de JSON.parse ??? 
+01:24:04	Diego Souza:	se for uma função async, tem que ter o await sim
+01:24:44	Bruno Kanniggia Alves do Rosário:	Série B, Série B, Série C
+01:24:44	David Meth:	certo, usar async e await vale a pena? usar observable seria mais interessante não?
+01:24:54	Sidney Gomes de Aquino:	kkk
+01:24:56	Guilherme Corrêa Souza:	kkkkkkkkkkkkkkkkkkkkkkkkkkk
+01:24:59	LUCAS HENRIQUE FIRMINO RODRIGUES SILVA:	KKK
+01:25:43	Diego Souza:	vai usar o foreach()?
+01:25:44	Bruno Kanniggia Alves do Rosário:	[[time: "Sem Mundial", pontuacao: -6}]
+01:25:46	Zandra Monteiro:	não tem como pegar essa estrutura do arquivo 2003.json?
+01:26:14	Zandra Monteiro:	ok
+01:26:31	David Meth:	\o/ \o/\o/ m valeria mais a pena usar observables? \o/\o/\o/
+01:26:37	Pedro Henrique Silveira:	https://github.com/geovannyAvelar/Dados-Abertos-Campeonato-Brasileiro
+01:27:01	Pedro Henrique Silveira:	https://raw.githubusercontent.com/geovannyAvelar/Dados-Abertos-Campeonato-Brasileiro/master/2003/2003.json @zandra
+01:27:17	Sidney Gomes de Aquino:	David Meth... use o Raise Hand do Zoom
+01:27:54	Sidney Gomes de Aquino:	acho q aí ele verá sua dúvida... no chat fica confuso mesmo
+01:28:32	Willian Fernando Lopes:	if (time === "Cruzeiro") return pontos = -6
+01:28:49	Zandra Monteiro:	valeu, pedro
+01:28:54	TARCISIO CESAR SANTOS:	array.map não seria melhor não?
+01:29:01	Alex do Nascimento de Sousa:	ambulância
+01:29:08	Alex do Nascimento de Sousa:	negócio tá pegando
+01:29:22	Everton Souza:	ja
+01:29:29	Willian Fernando Lopes:	Monitora Manu
+01:29:32	David Meth:	┻┳| •.• ) observables n era melhor nçao?
+┳┻|⊂ﾉ
+┻┳|
+01:29:33	Ramon Henrique Palmeira Santos:	pq data[0]
+01:29:34	Paulo Eduardo Heitor Silva:	coloquem o link aqui
+01:29:36	Paulo Eduardo Heitor Silva:	por favor
+01:29:46	David Meth:	rxjs
+01:29:56	gustavo henrique antonio:	data[0] é o primeiro índice do array
+01:30:02	Monitora Manuella Teixeira:	Enquete liberada, pessoal
+01:30:02	David Meth:	seria mais simples para tratar 
+01:30:04	Diego Souza:	porque data, foi a variável que ele declarou no const
+01:30:06	Luis Milanese:	Oia gente, como o David Meth é avançado
+01:30:07	Monitora Manuella Teixeira:	no ambiente de aprendizagem
+01:30:11	Luis Milanese:	Meninão senior
+01:30:14	Luiz Carvalho dos Santos Neto:	professor escreva times fora da função init, eu fiz isso no trabalho e ele aparecia vazio
+01:30:15	Tiago Kemberli Oliveira Fonseca:	HAhahaahahaha
+01:30:19	David Meth:	certo
+01:30:28	Renato Mendes Viegas:	https://igti.instructure.com/courses/3063/quizzes/37026?module_item_id=206638
+01:30:31	Luiz Carvalho dos Santos Neto:	escrever ele fora
+01:30:32	Renato Mendes Viegas:	Enquete
+01:30:40	Maicon Soares:	https://igti.instructure.com/courses/3063/quizzes/37026/take
+01:30:42	Monitora Manuella Teixeira:	Enquete liberada
+01:30:44	willian vieira:	ta lierada
+01:30:45	Luis Milanese:	Será que manipular em linguagem de máquina não seria melhor, David? 
+01:30:46	Andrei Soares Torres:	já esta liberada
+01:30:47	Maicon Soares:	link https://igti.instructure.com/courses/3063/quizzes/37026/take
+01:30:50	Thiago Ramos:	aqui https://igti.instructure.com/courses/3063/quizzes/37026/take
+01:30:51	Ramon Henrique Palmeira Santos:	pq data na posição 0?
+01:30:55	Luiz Carvalho dos Santos Neto:	console.log (times) depois da chamada init( )
+01:30:58	Paulo Eduardo Heitor Silva:	Obrigado a quem mandou o link
+01:30:59	Andrei Soares Torres:	https://igti.instructure.com/courses/3063/quizzes/37026
+01:31:01	Paulo Eduardo Heitor Silva:	valeu mto 
+01:31:06	Andrei Soares Torres:	link enquetehttps://igti.instructure.com/courses/3063/quizzes/37026
+01:31:08	Paulo Eduardo Heitor Silva:	ate achar la so Jesus kkkk
+01:31:11	Zandra Monteiro:	https://igti.instructure.com/courses/3063/quizzes/37026?module_item_id=206638
+01:31:20	Ramon Henrique Palmeira Santos:	ah entendi
+01:31:24	Rafael Santos:	se no lugar de times fosse Estados e cidades, você faria o mesmo?
+01:31:24	Rafael Santos:	kkk
+01:31:40	Itamar do Prado:	enquete ok
+01:31:41	Andrei Soares Torres:	kkk
+01:31:56	Luiz Carvalho dos Santos Neto:	escreva console.log (times) depois da chamada init( )
+01:32:09	Willian Fernando Lopes:	Ramon, um array pode ser chamado o item dele pelo número, começando a contagem de zero. Então, "data" tem o conteúdo e ele quer o primeiro item que é a primeira rodada então ele chamou data[0]. ;-)
+01:32:12	Zandra Monteiro:	prof, onde tá no arquivo q as rodadas estão fora das partidas?
+01:32:17	TARCISIO CESAR SANTOS:	ao invés do foreach com push não poderia ser o array.map?
+01:32:33	Ramon Henrique Palmeira Santos:	Obrigado, Willian
+01:32:48	Luiz Carvalho dos Santos Neto:	entendi, então não consigo usar o vetor fora da função
+01:32:54	Afonso Antunes Costa Junior:	se você colocar await lá no console ele aguarda, correto?
+01:33:01	Afonso Antunes Costa Junior:	Boa!
+01:33:08	Zandra Monteiro:	william, no caso, o primeiro item é a rodada?
+01:33:10	Renato Mendes Viegas:	+10 pts pra conta!
+01:33:15	Willian Fernando Lopes:	Isso.
+01:33:18	Diego Souza:	enquete respondida
+01:33:26	Rafael Santos:	kkkkkkkkkk
+01:33:29	gustavo henrique antonio:	kkkkkkkkkkk
+01:33:31	RICARDO FERREIRA DOS SANTOS:	kkkkkk
+01:33:32	Marcelo Leal:	kkkkkk
+01:33:33	Najla Acemel Galvao:	🤣🤣
+01:33:45	RICARDO FERREIRA DOS SANTOS:	Curitiba um frio do cacete
+01:33:47	marcelo da silva velame:	ja tem que responder a chamada?
+01:33:48	marcelo da silva velame:	:D
+01:33:52	Willian Fernando Lopes:	Data tem uma array (matriz) de rodas. Então o primeiro item da array/matriz é a primeira rodada.
+01:33:54	David Meth:	💦☁☁☁☁
+🍺🍺🍺🍺🍺 🍻 
+🍺🍺🍺🍺🍺   🍻 
+🍺🍺🍺🍺🍺    🍻
+🍺🍺🍺🍺🍺   🍻
+🍺🍺🍺🍺🍺🍻
+🍺🍺🍺🍺🍺
+
+🍺🍺🍺🍺🍺
+01:33:55	Renato Mendes Viegas:	Floripa também!
+01:33:59	Marcelo Leal:	tem mais 10min pra preencher
+01:34:13	Everton Souza:	Sâo Paulo ta frio
+01:34:13	Zandra Monteiro:	entendi. não tinha visto esse lance da rodada. valeu :)
+01:34:13	Vinicius Paulino:	Boa Renato !! 
+01:34:26	Marcelo Leal:	hj ta qte no RS ontem 4ºC as 9:30
+01:34:29	Willian Fernando Lopes:	Sertãozinho/SP tem 2 estações no ano: verão e inFerno. Tá sempre quente.
+01:34:30	Vinicius Paulino:	to aqui em Floripa tb
+01:34:31	Jessyca Medeiros Toselli:	Pro carioca, o Rio de Janeiro está um gelo hahahahahah
+01:34:37	Diego Souza:	em Santaluz tá um friozinho bom
+01:34:54	Diego Souza:	@david Meth, como tá ?
+01:35:07	Denilson Câmara:	@TARCISIO poderia, mas teria que atribuir esse novo array ao times[], então daria na mesma.
+01:35:07	Cristiano de Almeida Souza:	poderia ter um exemplo do G4 e Z4
+01:35:18	Sidney Gomes de Aquino:	um array só
+01:35:29	Antonio Marques:	Um time só aparece uma vez em cada partida então
+01:35:34	Sidney Gomes de Aquino:	´time e pontos, mas o array é um só
+01:35:36	Renato Mendes Viegas:	@Willian verão e inFerno!!! kkkkk 
+01:35:37	Rodrigo de Souza Lima Gomes Gomes:	sim
+01:35:46	marcelo da silva velame:	a promisse seria oq
+01:35:49	marcelo da silva velame:	promise
+01:35:55	Bruno Kanniggia Alves do Rosário:	dois times aparecem em uma partida
+01:36:17	Fabiano Lopes Viana:	e como eu sei qual "cara" que vai retornar uma promise?
+01:36:24	Antonio Marques:	Mas na partida de índice 0, só aparece uma vez o mesmo time, certo? 
+01:36:28	Renato Mendes Viegas:	boa pergunta
+01:36:44	Andrei Soares Torres:	retorna no modulo 1 que vc vai saber
+01:36:52	Diogo Schimmelpfennig:	Quando vc passa o mouse em cima da para ver o retorno
+01:36:55	marcelo da silva velame:	:(
+01:36:57	Denilson Câmara:	O VSCode também ajuda. Ele mostra o retorno da função
+01:37:10	Willian Fernando Lopes:	Promise é uma "função" que executa operações e depois (só no momento futuro) ela "promete" responder se deu certo ou errado. O certo ou errado ele executa uma função sua conforme você informou como parâmetro.
+01:37:31	Renato Mendes Viegas:	https://www.linkedin.com/in/renato-viegas/
+01:37:35	marcelo da silva velame:	vlw
+01:38:52	Fabiano Lopes Viana:	Ok... mto bom, obrigado!
+01:39:09	Ramon Henrique Palmeira Santos:	não bloqueante 
+01:39:17	marcelo da silva velame:	o ruim do JS é por causa de 1 tred só,
+01:39:21	Gabriely Vitoria Cruz da Silva Gabriely Vitoria Cruz da Silva:	Eu estou muito confusa no trabalho prático,  sobre como criar os arquivos para cada uf, vamos ter algum exemplo assim hoje ? 
+01:39:32	marcelo da silva velame:	em arquivos que exige mais memória qual a solução??
+01:39:58	IANNA GICO:	Prof, não precisamos escrever nada no arquivo json, né? Tipo um module.exports?
+01:39:59	Ramon Henrique Palmeira Santos:	por incrível que pareça consegui fazer o trabalho pratico, nem eu acreditei kkk
+01:40:01	Sidney Gomes de Aquino:	Gabrielly, vc está no grupo do Discord? Galera tá evoluindo lá.
+01:40:15	Douglas Vallinhos:	PROFESSOR, você utiliza alguma extensão para melhorar intellisense/ autocomplete?, no VSCODE para se asemelhar a IDEs, tipo WebStorm?
+01:40:17	Gabriely Vitoria Cruz da Silva Gabriely Vitoria Cruz da Silva:	Não estou 
+01:40:21	marcelo da silva velame:	passa o grupo ai do discord
+01:40:26	marcelo da silva velame:	e do telegram
+01:40:37	Sidney Gomes de Aquino:	vou tentar postar o meu até amanhã, só preciso aliviar o trampo aqui
+01:40:42	Sidney Gomes de Aquino:	1min
+01:40:43	Alex Benini Teixeira:	nessa questão seria uma boa o uso da extensão do Import Cost do VS Code que mostra exatamente o peso do que estamos importando
+01:40:44	Pedro Paulo Ferreira Santos:	https://discord.gg/gtyQj8
+01:40:53	Sidney Gomes de Aquino:	já mandaram
+01:41:30	Marcelo Leal:	do cliente ou servidor
+01:41:31	Maicon Soares:	Para manipular o Array Times[] preciso fazer sempre dentro da função Init() ? no caso se fazer alguma iteração fora, com outra função,  a promise pode não estar resolvida, é isso ?
+01:41:32	marcelo da silva velame:	humm interessante, entao esse await q faz toda essa magica
+01:41:49	Sidney Gomes de Aquino:	https://discord.gg/qUekFU
+01:42:29	Danilo de Cavalho Silva:	Pessoal, usem o Q&A, senão a aula vai ser só pra tirar dúvidas. Deixem as perguntas para o final, pra ele fazer o projeto
+01:43:07	Willian Fernando Lopes:	@Marcelo, async/await é tudo de bom.
+01:43:10	marcelo da silva velame:	o prazo da atividade é até domingo pelo que tinha lido
+01:43:16	marcelo da silva velame:	não sei se houve mudança novamente :D
+01:43:36	Gustavo Moreira:	Não mudou, Marcelo. Segue até domingo
+01:44:27	Thiago Ramos:	typo "placa"
+01:45:00	Willian Fernando Lopes:	@Thiago, se fosse no Visual Studio (não o Code) ele tinha aviso a digitação errada...
+01:45:06	Everton Souza:	não intendi o pq de dois forEach() 
+01:45:14	Thiago Ramos:	typo linha 22
+01:45:26	Ramon Henrique Palmeira Santos:	dois arrays
+01:45:32	Sidney Gomes de Aquino:	o primeiro inicializa e o segundo incrementa os pontos conforme as rodadas
+01:45:33	marcelo da silva velame:	tbm nao, foreach percorre o array não é
+01:45:37	Rodrigo de Souza Lima Gomes Gomes:	o primeiro for each foi de uma rodada só para montara  lista de times
+01:45:40	Willian Fernando Lopes:	Everton, o primeiro forEach percorre as rodadas. Aí dentro dele faz outro porque ele percorre todas as partidas dentro da rodada.
+01:45:49	Diego Souza:	um é para adicionar os pontos ao time
+01:46:27	Zandra Monteiro:	para poder usar o rodada. o rodada não teria q estar fora do partida no json?
+01:46:33	Bruno Kanniggia Alves do Rosário:	primeiro if tá como partida.placa.mandante troca para partida.placar_mandante
+01:46:52	Bruno Kanniggia Alves do Rosário:	e no else if tbm
+01:47:04	Zandra Monteiro:	q nem aquele do exercício das pessoas, q tinha resultado fora do pessoas. aí tinha q fazer resultado.pessoas
+01:47:07	Ramon Henrique Palmeira Santos:	PLACA não, PLACAR
+01:47:18	Everton Souza:	poderia colocar o map primeiro e depois o forEach() daria certo tb Willian
+01:48:43	Zandra Monteiro:	poxa.. não to entendendo esse lance da rodada 
+01:48:48	Bruno Kanniggia Alves do Rosário:	no else if tbm
+01:48:51	Ramon Henrique Palmeira Santos:	else if tbm
+01:48:51	Mateus Souza:	na linha 25 tbm
+01:48:52	Zandra Monteiro:	onde tem esse nome rodada no json?
+01:48:57	willian vieira:	linha 25 tbm ta PLACA
+01:48:58	Ramon Henrique Palmeira Santos:	else if tbm tá PLACA
+01:49:22	Sidney Gomes de Aquino:	38 rodadas ao todo
+01:49:26	Zandra Monteiro:	mas a palavra rodada tá onde? pra poder usar ele no rodada.partida?
+01:49:28	William Gonçalves:	  cortou aqui
+01:49:28	William Gonçalves:	cortou ai?
+01:49:33	Willian Fernando Lopes:	Acho que hoje não acaba às 21h00 ;-)
+01:49:46	Sidney Gomes de Aquino:	rodada tá como partidas
+01:49:46	Willian Fernando Lopes:	Tá top a explicação de array!
+01:49:48	Sidney Gomes de Aquino:	na vdd
+01:50:07	Zandra Monteiro:	mas e a palavra rodada? pra poder usar ela no código? 
+01:50:22	Alessandro Silva:	rodada é um apelido para um item da lista
+01:50:27	Denilson Câmara:	rodada é de data.forEach
+01:50:29	Luiz Carvalho dos Santos Neto:	timeMandante é que tipo de elemento?
+01:50:30	Renato Mendes Viegas:	Pense em rodada como um termo de negócio utilizado
+01:50:38	Diogo Schimmelpfennig:	não tem a palavra rodada, ele já é o array principal
+01:50:43	Renato Mendes Viegas:	rodada = partidas
+01:50:50	Afonso Antunes Costa Junior:	hmmm agora fez sentido
+01:50:56	Zandra Monteiro:	tendi
+01:50:57	Luiz Carvalho dos Santos Neto:	tem sim é pq ele ocultou quando exibiu o arquivo
+01:51:10	Luiz Carvalho dos Santos Neto:	rodada está por fora de partidas
+01:51:15	Willian Fernando Lopes:	Essa dica do apontamento da memória matou a charada aqui pra mim!
+01:51:21	Zandra Monteiro:	era isso q eu queria saber, william!!!
+01:51:23	Everton Souza:	poderia colocar data.partidas.forEach() no lugar de dois forEach()
+01:51:28	Zandra Monteiro:	se rodada tava fora de partidas no json
+01:51:30	Alex Benini Teixeira:	boa dica isso já ajudou pra muita coisa na minha vida kkkk
+01:52:15	Sidney Gomes de Aquino:	na verdade rodadas é partidas.numero
+01:52:16	Zandra Monteiro:	era isso q eu ia entenderrrr
+01:52:26	Zandra Monteiro:	valeu :)
+01:52:28	Geazi Oliveira:	Todas as funções que estiverem retornando tipos que não são primitivos sempre retornam a referência? Por exemplo, esse caso aí do find
+01:52:45	Willian Fernando Lopes:	Boa pergunta Geazi. Também quero a resposta.
+01:53:43	Denilson Câmara:	Professor falou disso no primeiro modulo. O retorno dos array methods
+01:54:05	Andrei Soares Torres:	Falou e falou bem detalhado
+01:54:12	Danilo de Cavalho Silva:	pois é
+01:54:20	Ramon Henrique Palmeira Santos:	espalhar 
+01:54:31	Willian Fernando Lopes:	Aula hoje o nível tá ficando alto. Iniciantes vão ter dificuldades...
+01:54:40	Renato Mendes Viegas:	tá bem legal
+01:54:41	Pedro Paulo Ferreira Santos:	Estou passando mal aqui já kkkk
+01:54:44	marcelo da silva velame:	verdade mas o professor manja mto
+01:54:45	Diego Souza:	tipo eu @willian
+01:54:46	Diego Souza:	kkkkkk
+01:54:59	Alex Benini Teixeira:	moço que essa aula ta boa!
+01:55:01	Pedro Paulo Ferreira Santos:	Vai e volta, vai e volta
+01:55:08	Willian Fernando Lopes:	Esse do .find() é idêntico no Linq do C#.
+01:55:12	marcelo da silva velame:	se eu chegar nesse nivel um dia ta bom
+01:55:26	Renato Mendes Viegas:	@marcelo é a prática
+01:55:41	Willian Fernando Lopes:	@Pedro, tem muito conceito que está sendo envolvido aí. Concordo com você mas ele está costurando as pontas e está ficando legal.
+01:55:46	Fred Carderaro:	tem hora que de tanto pensar em solução da uma travada no raciocinio tem q recomeçar
+01:55:57	Afonso Antunes Costa Junior:	coloca um sort
+01:56:07	marcelo da silva velame:	estudando há um tempinho só falto agora entrar na área de dev
+01:56:08	marcelo da silva velame:	:D
+01:56:17	marcelo da silva velame:	o dia que tiver oportunidade
+01:57:14	Diego Souza:	um sort()
+01:57:30	Pedro Paulo Ferreira Santos:	@Willian Eu entendo, aqui tem pessoas de níveis diferentes mesmo. Eu vou ter que entender o que ele falou uma hora ou outra mesmo kkkkk mas agora fica meio difícil, mas vamos lá :D
+01:57:49	Willian Fernando Lopes:	@Pedro, está mesmo, concordo.
+01:58:19	IANNA GICO:	@Pedro TMJ...
+01:58:56	Ramon Henrique Palmeira Santos:	localecompare é pra ordenar string?
+01:59:05	Pedro Henrique Silveira:	Eu posso ter um times.sort("pontuaca").sort("ordem alfabética|")?
+01:59:41	Alex Benini Teixeira:	em TI o melhor amigo do profissional é o Google kkkk
+01:59:58	Zandra Monteiro:	boa pergunta, Pedro. tb quero saber
+02:00:25	Afonso Antunes Costa Junior:	Essa base está certa?
+02:00:30	LUCAS HENRIQUE FIRMINO RODRIGUES SILVA:	HAHAHHAA
+02:00:31	Afonso Antunes Costa Junior:	Ou foi erro no codigo
+02:00:31	Fabiano Pimpão:	huahaaauaauaa
+02:00:33	Afonso Antunes Costa Junior:	100 pontos?
+02:00:33	Gregory Gouveia:	HAHAHAA
+02:00:36	Ricardo Fernandes Silva Kurdt:	pegadinho isso ai
+02:00:37	Willian Fernando Lopes:	Deu BUG no código!
+02:00:39	Bruno Kanniggia Alves do Rosário:	Inverte que dá zona de rebaixamento
+02:00:44	Thiago Ramos:	24 times
+02:00:49	Pedro Henrique Silveira:	Eu posso ter um times.sort("pontuaca").sort("ordem alfabética|")?
+02:00:50	Fabiano Pimpão:	professor pegou o 2003 só porque foi cruzeiro
+02:00:50	Afonso Antunes Costa Junior:	A tabela do google tm 76
+02:00:52	Afonso Antunes Costa Junior:	Hahahaha
+02:00:52	Fabiano Pimpão:	hauhaauhaa
+02:00:57	Paulo Uchôa:	ele vai dizer que não lembra que o time ganhou em 2003 e por isso que escolheu aleatoriamente rsrsrsrs
+02:00:57	Luiz Carvalho dos Santos Neto:	deixe o exemplo longo comentado!
+02:00:59	Ramon Henrique Palmeira Santos:	e agora pra ordenar por ordem alfabética?
+02:01:01	Cristiano de Almeida Souza:	faz o G4 e o Z4
+02:01:18	Afonso Antunes Costa Junior:	2013*** foi mal
+02:01:42	Jony Ridel de Lima Silva:	2013 o Cruzeiro fez 76 pontos
+02:01:49	Sidney Gomes de Aquino:	professor, e pra trazer os cinco primeiros? ;)
+02:01:55	Renato Mendes Viegas:	professor, coloca um segundo critério de ordenação
+02:01:59	Willian Fernando Lopes:	Sidney, procura o Splice!
+02:02:03	Afonso Antunes Costa Junior:	Exato, Jony! Eu confundi aqui
+02:02:06	Ramon Henrique Palmeira Santos:	Professor, se houver pontuação igual, como faria para ordenar por nome?
+02:02:07	Afonso Antunes Costa Junior:	2003 foi 100 mesmo
+02:02:10	Renato Mendes Viegas:	quem empatou --> ordem alfabética
+02:02:10	Sidney Gomes de Aquino:	boa, William
+02:02:18	Jony Ridel de Lima Silva:	https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/2013/jogos/
+02:02:39	Willian Fernando Lopes:	@Sidney, é SLICE. Digitei errado.
+02:02:43	Zandra Monteiro:	boa. quem empatou ser por ordem alfabética. acho q isso é outro if
+02:02:44	Sidney Gomes de Aquino:	SLICE
+02:02:45	Sidney Gomes de Aquino:	isso
+02:02:52	Renato Mendes Viegas:	sort. e depois o slice
+02:02:53	Fred Carderaro:	@Ramon essa tbm queria saber, ordenar por um segundo criterio
+02:02:55	Willian Fernando Lopes:	array.slice(0, quantidadeDesejada);
+02:03:10	Sidney Gomes de Aquino:	valeu, William
+02:03:47	Renato Mendes Viegas:	const sort = (a, b) => a.pontuacao - b.pontuacao || a.time.localeCompare(b.time); 
+
+02:03:49	Alex Benini Teixeira:	bacana essa dica
+02:04:02	Fred Carderaro:	no trabalho pratico peguei todos que tinham o mesmo tamanho de nome e reordenei... mas pareceu muito trabalho pra ordenar
+02:04:08	Renato Mendes Viegas:	pontuacao
+02:04:31	Ramon Henrique Palmeira Santos:	as cidades de menor nome
+02:04:33	Renato Mendes Viegas:	const sort = (a, b) => a.pontuacao - b.pontuacao || a.time.localeCompare(b.time);  essa forma com dois critérios
+02:04:45	Ramon Henrique Palmeira Santos:	não consegui ordenar por nome após achar as menores
+02:04:59	Renato Mendes Viegas:	desse jeito Ramon:
+const sort = (a, b) => a.pontuacao - b.pontuacao || a.time.localeCompare(b.time); 
+02:05:08	Ramon Henrique Palmeira Santos:	ah massa
+02:05:09	Ramon Henrique Palmeira Santos:	vlw
+02:05:24	Diego Souza:	coloca 4 
+02:05:34	Diego Souza:	tem que ser 4 o indice
+02:05:35	Fred Carderaro:	@Renato, assim ficou bem melhor do que eu fiz
+02:05:56	Thiago Ramos:	pode explicar de novo pq de 0 a 4 ao invés de 0 a 3?
+02:06:12	Afonso Antunes Costa Junior:	Porque o segundo parâmetro do slice é exclusivo, Thiago
+02:06:13	Renato Mendes Viegas:	@Fred, show
+02:06:14	Cristiano de Almeida Souza:	ai sim]
+02:06:15	Andrei Soares Torres:	4 vai ser cortado
+02:06:23	Gregory Gouveia:	é o mesmo lance de > e >=
+02:06:25	Willian Fernando Lopes:	0 é onde começa o índice que você quer. 4 é a quantidade: 0, 1, 2 e 3. Pegou os 4 primeiros.
+02:06:28	Afonso Antunes Costa Junior:	Então não bota ele para dentro do novo objeto
+02:06:28	Gregory Gouveia:	inclui o índice ou não
+02:06:45	Ricardo Fernandes Silva Kurdt:	time de menor nome = cruzeiro
+02:07:06	Renato Mendes Viegas:	kkkk
+02:07:41	Luiz Arthur Silva Moura:	pode-se usar sort do time.length e pegar o primeiro e o ultimo, não?
+02:07:41	Thiago Ramos:	Ah, entendi, o 4 é onde "corta" o slice
+02:07:50	Zandra Monteiro:	poderia usar o filter em ver do forEach?
+02:07:50	Gregory Gouveia:	isso
+02:07:52	Willian Fernando Lopes:	4 é o tamanho do corte.
+02:07:54	Zandra Monteiro:	em vez
+02:07:57	Renato Mendes Viegas:	filter?
+02:08:23	Zandra Monteiro:	sim. filter no lugar do forEach pra filtrar
+02:08:25	Alex Benini Teixeira:	caramba!! eu compliquei tanto e você fez de uma forma rapidinha. Essas horas de voo ajudam bastante
+02:08:42	Sidney Gomes de Aquino:	pois é
+02:08:48	Ramon Henrique Palmeira Santos:	fiz uma função grandona pra isso kkk
+02:08:54	Willian Fernando Lopes:	em questão de números, por exemplo, array.slice(3, 6) seria: 2,3,4,5,6 e 7.
+02:08:58	Sidney Gomes de Aquino:	essas aulas interativas abrem a mente
+02:09:09	Alex Benini Teixeira:	sim! gostei mais delas do que das gravadas
+02:09:30	Zandra Monteiro:	em vez do forEach pode usar filter?
+02:09:30	Herculano Washington Silva:	Caso fosse igual o tamanho?Como ficaria para deixar o na ordem alfabética?
+02:09:45	Vitor A. Vale:	So usar no for..of
+02:09:48	Vanderléia da Silva Montenegro:	realmente ao vivo é outra coisa a aula
+02:09:48	RENATO NASCIMENTO REIS SANTOS:	professor da pra dar um exemplo com o reduce nessas comparações?
+02:09:48	Willian Fernando Lopes:	A aula interativa dele está top! É como se ele pegasse as pecinhas dos quebra cabeças das aulas gravadas e montasse elas tudo agora.
+02:10:07	Renato Mendes Viegas:	const sort = (a, b) => a.pontuacao - b.pontuacao || a.time.localeCompare(b.time); 
+@Herculano, desse jeito
+02:10:20	Herculano Washington Silva:	obg
+02:10:22	gustavo henrique antonio:	Essa aula foi muito interessante, parabéns professor!!
+02:10:23	Filipe Matias:	top mesmo 
+02:10:55	Ramon Henrique Palmeira Santos:	aula top mesmo, aprendi mais na aula interativa 
+02:12:41	Willian Fernando Lopes:	Reduce (pra determinar a cidade com maior nome por uf):let result = sizeCitiesUF.reduce((prev, current) => {          return prev.Tamanho > current.Tamanho ? prev : current;        });
+02:12:52	Renato Mendes Viegas:	Professor só consegui resolvendo o Promise.all() utilizando o map
+02:14:31	Luis Carlos Yamauchi:	eu usei assim : await estados.forEach(estado => {
+02:14:34	Bruno da Silva Amorim:	for entao for of e quando a ordem importa?
+02:15:30	William Carvalho:	aula top
+02:16:07	Raphael Torres:	e await dentro do loop?
+02:16:18	Luis Carlos Yamauchi:	ahhh sim foi em uma promisse
+02:16:34	marcelo caser:	bacana
+02:16:42	marcelo caser:	bora tomar uma
+02:16:43	Raphael Torres:	pode usar dentro do forEach?
+02:16:45	marcelo caser:	chega
+02:16:58	Bruno da Silva Amorim:	nesse caso entao e melhor o for of?
+02:17:04	Raphael Torres:	saquei
+02:17:35	Denilson Câmara:	Valeu professor. Ótima aula.
+02:17:37	Bruno da Silva Amorim:	show
+02:17:39	Pedro Paulo Ferreira Santos:	Valeu!
+02:17:41	Zandra Monteiro:	obrigada, prof
+02:17:43	Zandra Monteiro:	adorei a aula
+02:17:46	clayton paiva da silva:	Aula muito bacana!!!!!!!!!
+02:17:46	Cristiano Aparecido Lázaro:	show
+02:17:46	Marcelo Leal:	valeu
+02:17:48	Gregory Gouveia:	Que Deus nos ajude amém!
+02:17:49	Alex Benini Teixeira:	professor tenho que falar. Sua aula hoje foi ótima!
+02:17:51	Itamar do Prado:	falo, valeu, obrigado .
+02:17:52	Fabiano Pimpão:	Uma pergunta, qual é o mais performático, foreach, for of, ou for ?
+02:17:55	William Gonçalves:	falta 1 min, manda mais um projeto, hoje ninguém dorme
+02:17:56	Willian Fernando Lopes:	Obrigado Guilherme! Ficou top!
+02:17:57	Andrei Soares Torres:	TOP Parabéns Prof Guilherme!!Me surpreendeu
+02:17:59	RICARDO FERREIRA DOS SANTOS:	show
+02:18:00	Zandra Monteiro:	top
+02:18:01	RICARDO FERREIRA DOS SANTOS:	kkk
+02:18:02	Zandra Monteiro:	adorei
+02:18:03	Luiz Fernando de Oliveira Rodrigues:	Show
+02:18:04	RICARDO FERREIRA DOS SANTOS:	ai sim
+02:18:05	Zandra Monteiro:	valeu
+02:18:07	Marcelo Leal:	merecido
+02:18:11	Zandra Monteiro:	bora estudar, pessoal
+02:18:11	Diego Veiga:	Valeu prof, vlw galera! boa noite e boa sexta pra todos aiBora tomar uma
+02:18:12	Ramon Henrique Palmeira Santos:	aula show
+02:18:12	Fred Carderaro:	mto bom!!
+02:18:14	Cristiano Aparecido Lázaro:	depois do sofrimento pra implementar e com essa aula muita coisa se esclareceukkk
+02:18:17	Willian Fernando Lopes:	Se tomar umas antes do projeto o FOREACH fica mais fácil. ;-)
+02:18:18	Matheus Araújo:	show
+02:18:19	Diego Souza:	Aula muito show
+02:18:19	Luis Carlos Yamauchi:	show 
+02:18:20	willian vieira:	vlw prof 
+02:18:20	Sadu Toledo de Souza:	muito boa aula. final com dicas do await e promessi muito bom mesmo, vlw pessoal ate semana que vem 
+02:18:21	Tiago Kemberli Oliveira Fonseca:	Valeu, boa noite
+02:18:22	Sidney Gomes de Aquino:	valeu, professor!
+02:18:22	Fred Carderaro:	boa noite pra odo mundo!!!
+02:18:23	IANNA GICO:	beleza prof...
+02:18:23	willian vieira:	muito legal
+02:18:25	Luis Carlos Yamauchi:	bom final de semana falow
+02:18:26	Ramon Henrique Palmeira Santos:	quem gravou
+02:18:27	Ramon Henrique Palmeira Santos:	manda
+02:18:27	Diego Souza:	Vlw Professor
+02:18:27	Vanderléia da Silva Montenegro:	adorei show
+02:18:27	Carlos Eduardo Germano de Souza Carlos Eduardo Germano de Souza:	abraços !!
+02:18:28	Ramon Henrique Palmeira Santos:	kkk
+02:18:29	Diego Souza:	Boa noite
+02:18:32	Victor Luiz Bernardes da Silva:	Blz… Valeu professor
+02:18:33	Diego Souza:	Boa noite Galera
+02:18:35	Monitora Manuella Teixeira:	Obrigada pela presença e participação na aula, pessoal! 
+02:18:36	Cristiano Aparecido Lázaro:	boa noite
+02:18:36	Victor Luiz Bernardes da Silva:	Uniao FLasco
+02:18:37	clayton paiva da silva:	Valeu pessoal, boa noite!!!!
+02:18:37	Zandra Monteiro:	valeu galera
+02:18:37	Maicon Soares:	show
+02:18:38	IANNA GICO:	Valeu!!!
+02:18:38	Bruno da Silva Amorim:	boa noite
+02:18:40	Jony Ridel de Lima Silva:	boa noite
+02:18:40	William Gonçalves:	vlw boa noite
+02:18:40	Tutor Carlos Nascimento:	Muito obrigado, professor! Excelente aula!
+02:18:41	RICARDO FERREIRA DOS SANTOS:	vlw pessoal
+02:18:43	Maicon Soares:	valeu
+02:18:46	Sanzio Wesley:	Valeu
+02:18:49	Renato Mendes Viegas:	vlw
+02:18:49	Luiz Fernando de Oliveira Rodrigues:	Boa noite!
+02:18:56	Severino José da Costa Neto:	Valeu
+02:19:02	Vitor A. Vale:	Boa noite
+02:19:08	Vinicius Paulino:	Valeu pessoal !! 

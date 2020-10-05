@@ -1,0 +1,19 @@
+git init   //cria o repositório
+
+git config user.name "nomeUsuario"  //define o usuário
+
+git config user.email "emailUsuario"  //define o email
+
+git remote add origin http://...  //aponta o repositório remoto
+
+git add.  //adiciona as modificações
+
+git commit -m "mensagem"  //comita(salva) as modificações feitas
+
+git push origin master  //envia as modificações ao repositório remoto
+
+
+Referências de consulta a documentação
+https://dev.to/t/git/
+https://ohshitgit.com/
+https://git-scm.com/

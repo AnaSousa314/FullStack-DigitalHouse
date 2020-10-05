@@ -1,0 +1,18 @@
+git config user.name  // serve para ver qual o nome cadastrado no seu git
+
+git config user.email  // serve para ver qual o email cadastrado no seu git
+
+git config --global user.email "userEmail"  //torna o email global para todos os projetos
+
+git config --global user.name "userName"  //torna o usuário global para todos os projetos
+
+git remote add origin "linkDoRepositorioRemoto"
+
+git remote -v //para ver se o repositorio remoto foi adicionado com sucesso
+
+OBS.: A informação que aparece a fazer o git remote -v é:
+origin "linkDoRepositorioRemoto" (fetch) 
+origin "linkDoRepositorioRemoto" (push)
+
+fetch : é de onde vai ser trazida as informações
+push : é para onde as informações serão enviadas
