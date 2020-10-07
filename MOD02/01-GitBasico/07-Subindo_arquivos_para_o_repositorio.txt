@@ -1,0 +1,15 @@
+git push origin master //serve para enviar do repositório local para o remoto
+
+git add *//antes de fazer um push você precisa se certificar que já fez o git add e o git commit -m ""
+
+git commit -m ""
+
+git status
+
+//Abaixo, esse ciclo é o que sempre se repete
+
+git add * //ou nome do arquivo
+
+git commit -m ""
+
+git push origin master // git push

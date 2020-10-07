@@ -1,0 +1,6 @@
+git clone https://github.com/origemDoGit //para clonar/pegar um repositorio remoto para dentro da sua maquina
+
+ls // para saber se o arquivo foi clonado com sucesso
+
+git pull origin master //serve para pegar todas as alterações feitas no repositorio remoto para o seu projeto local, exemplo: Caso você já tenha feito um git clone na sua máquina, mas trabalhou no projeto em outra depois disso, você pode pegar todas essas alterações feitas e passar para o seu repositorio local
+
