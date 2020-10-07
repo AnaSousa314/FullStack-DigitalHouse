@@ -1,0 +1,8 @@
+git commit -m "ComentarioSobreOQueFez"  
+
+git add *  //antes da um commit, você precisa encaminhar o que fez ao Git
+
+git commit -m ""  //agora você commita o que foi adicionado
+
+
+
