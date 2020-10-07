@@ -1,0 +1,61 @@
+//Branch são uma 'linha' de desenvolvimento diferente da utilizada para testar novas funcionalidades sem interferir na linha principal/master. 
+
+git branch nomeDoBranch //para criar uma branch
+
+git checkout nomeDoBranch //para utilizar/entrar na nova branch
+
+git checkout -b nomeDoBranch //para criar uma branch e passar a usa-la com um só comando
+
+git branch //lista todas as branches do repositorio local
+
+git branch -a //lista todas as branches do repositorio local e remoto
+
+git log //lista o historico de commits feitos; tambem exibe o nome do autor, data e hora do commit e o codigo hash que identifica cada commit. 
+Pressione "q" para sair do git log
+
+//HEAD
+
+//HEAD é uma referência ao estado atual do seu repositorio. É comum que aponte para o último commit
+
+//Usamos git checkout nomeDoBranch para mover a HEAD do repositorio para qualquer outro branch
+
+git checkout hashDoCommitDesejado //usa-se para mover a HEAD para qualquer outro commit
+
+//Referencias para consulta
+https://learngitbranching.js.org/?locale=pt_BR
+https://girliemac.com/blog/2017/12/26/git-purr/
+
+
+//DESFAZENDO MUDANÇAS
+
+git checkout -- <nomeDoArquivo> //para desfazer mudanças que não foram adicionadas no stage
+
+git checkout HEAD -- <nomeDoArquivo> //para desfazer mudanças dos arquivos no stage, mas não commitadas. Ao executar isso o arquivo volta para sua versão do último commit
+
+git revert <HASH-DE-COMMIT-ANTERIOR> // cria um novo commit revertendo as alterações feitas até o commit especificado
+
+git reset --hard <HASH-DE-COMMIT> //move o apontador HEAD da branch para um outro commit
+
+git reflog //serve para ver os outros commits que não estão sendo apontados mas que ainda existem
+
+//UNINDO BRANCHS
+
+git merge outraBranch  // tenta criar um novo commit unindo a branch atual a uma outra branch
+
+git rebase outraBranch // Emenda a branch atual sobre a outra branch
+
+
+//CONFLITOS
+
+//As operações de união de branches podem provocar conflitos: ocorre quando o mesmo arquivo tem a mesma parte diferente nas duas branches
+
+//Exemplo: Quando duas branches alteram a mesma linha no código, isso gera conflito na hora de realizar o merge, por ter esse conflito o Git ao invés de fazer o merger, ele cria outro arquivo mostrando onde está o conflito
+
+//O conflito só é resolvido depois que todos os arquivos com conflito forem adicionados a o stage
+
+git add arquivoDoConflito
+
+//O commit que une os dois branches somente será criado quando o programador executar o comando que o cria
+
+git commit -m "Conflito resolvido com sucesso!"
+
