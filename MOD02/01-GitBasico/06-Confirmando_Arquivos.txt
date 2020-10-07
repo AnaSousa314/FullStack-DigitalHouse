@@ -4,5 +4,5 @@ git add *  //antes da um commit, você precisa encaminhar o que fez ao Git
 
 git commit -m ""  //agora você commita o que foi adicionado
 
-
+git add *  //serve tanto adicionar arquivos novos, quanto alterações nos arquivos
 
