@@ -4,5 +4,7 @@ git add *  //antes da um commit, você precisa encaminhar o que fez ao Git
 
 git commit -m ""  //agora você commita o que foi adicionado
 
+git commit --amend -m "AlteracaoDoUltimoCommit"  //serve para alterar o comentário do ultimo commit feito no repositorio local. Mas esse comando só funciona se ainda não tiver feito o push par ao repositorio remoto. 
+
 git add *  //serve tanto adicionar arquivos novos, quanto alterações nos arquivos
 
