@@ -1,0 +1,5 @@
+Códigos para terminal
+
+git restore --staged nomeDoArquivo //ele tira o que foi adicionado com o git add 
+
+git pull //verifica o que tem no ambiente remoto e no local, ele traz o que tem no repositorio remoto para o local
