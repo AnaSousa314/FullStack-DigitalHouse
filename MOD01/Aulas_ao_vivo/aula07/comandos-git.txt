@@ -22,3 +22,4 @@ PROBLEMA GRANDE/ DE RISCO: hotfix
 Estudar GITFLOW
 
 Desafio: jogar todas as aulas no repositório remoto pelo terminal
+git add *
