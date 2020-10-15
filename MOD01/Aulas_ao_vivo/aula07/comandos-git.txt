@@ -1,5 +1,24 @@
-Códigos para terminal
+Códigos para terminal e estudo sobre funcionamento do git e do gitHub
+
+o stage é um limbo que podemos dizer que fica entre o seu repositório local (sua máquina) e seu respositório remoto (github)
+
 
 git restore --staged nomeDoArquivo //ele tira o que foi adicionado com o git add 
 
 git pull //verifica o que tem no ambiente remoto e no local, ele traz o que tem no repositorio remoto para o local
+
+A letra U que fica do lado do Arquivo significa Unstage, ou seja, o arquivo não se encontra na stage area.
+
+A letra A que fica do lado do Arquivo significa Add, ou seja, o arquivo foi adicionado no stage area.
+
+A letra M que fica do lado do Arquivo significa Modified, ou seja, o arquivo foi modificado mas ainda não se encontra na stage area.
+
+BRANCHES
+ALGO NOVO: feature: coisas novas.  
+fix: consertando/arrumando o código.
+PROBLEMA PEQUENO: bugfix
+PROBLEMA GRANDE/ DE RISCO: hotfix
+
+Estudar GITFLOW
+
+Desafio: jogar todas as aulas no repositório remoto pelo terminal
