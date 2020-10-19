@@ -1,8 +1,8 @@
-Video Sugerido  
+## Video Sugerido  
 
 https://www.youtube.com/watch?v=2alg7MQ6_sI&ab_channel=Rocketseat  
 
-Anotações:  
+**Anotações:**  
 
 * `git init` // inicia a linha do tempo/repositório  
 * `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo/repositório  
@@ -19,4 +19,8 @@ Anotações:
 * `git pull` // puxa do repositório remoto  
 * `git checkout idDoCommit -- nomeDoArquivoARecuperar` // volta um arquivo para um determinado ponto na história  
 * `git checkout -- nomenomeDoArquivoARecuperar` // recupera algo deletado   
-* `git checkout idDoCommitOndeOArquivoAindaExistia -- nomenomeDoArquivoARecuperar` e adicionado na linha do tempo  
+* `git checkout idDoCommitOndeOArquivoAindaExistia -- nomenomeDoArquivoARecuperar` // ele pega o ponto/commit da linha do tempo onde o arquivo deletado ainda existia, e pega o arquivo a partir desse ponto
+
+#### Dicas 
+* Caso você tenha problemas em fazer um push porque está tendo conflito de login, veja o link abaixo  
+https://stackoverflow.com/questions/38549834/how-do-i-sign-out-in-the-git-bash-console-in-windows/38553149#38553149
