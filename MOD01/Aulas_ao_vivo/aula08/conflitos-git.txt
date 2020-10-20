@@ -1,0 +1,7 @@
+gitk // é o mesmo git Kraken
+
+Resolução de Conflitos
+
+Branches
+git checkout -b nomeDaBranch
+
