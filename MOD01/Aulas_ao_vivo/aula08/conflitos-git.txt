@@ -1,7 +1,14 @@
 gitk // é o mesmo git Kraken
 
+quando travar no git log pode tentar :wq! para sair da tela
+
 Resolução de Conflitos
 
 Branches
 git checkout -b nomeDaBranch
 
+O git pull só funciona quanto existe a branch remota
+
+git push origin nomeDaBranch //temos que fazer isso quando temos mais de uma branch além da master
+
+Desafio - Criar uma branch nova no Repositório
