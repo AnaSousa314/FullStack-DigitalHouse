@@ -1,0 +1,15 @@
+Introdução a npm
+
+npm install -g nodemon //para instalar o nodemon global
+
+Módulo sobre datas
+https://date-fns.org/
+https://momentjs.com/
+
+Colega sugeriu a extensão Node.js Exec
+
+// Desafio 1 - trazer a diferenca de dias e meses entre 15/09/2005 e 15/05/2020
+// utilizando biblioteca moment
+// Desafio 2 - trazer a diferenca de dias e meses entre 15/09/2005 e 15/05/2020
+// utilizando biblioteca date-fns
+
