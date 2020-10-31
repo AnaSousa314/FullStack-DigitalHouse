@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/AnaSousa314/FullStack-DigitalHouse#readme",
   "dependencies": {
-    "moment": "^2.29.1"
+    "date-fns": "^2.16.1",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.6"
   }
 }
