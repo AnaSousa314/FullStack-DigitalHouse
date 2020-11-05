@@ -29,6 +29,10 @@ module.exports = {
     getQueryParams(req,res){
         const {nome} = req.params
         const {sobrenome} = req.query;
+
+        /* 
+        o req.query vai pegar os dados que vem depois do nome, basta colocar o nome desejado ex.: Ana?  ; e depois a interrogação. Ele vai pegar o que você escrever como um objeto, por exemplo, colocolocamos na url  http://localhost:3000/query/Ana?sobrenome=Sousa 
+        */
   
         res.send("Olá "+ nome+" "+sobrenome)
         console.log(sobrenome)
