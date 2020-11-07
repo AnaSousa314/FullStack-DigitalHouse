@@ -1,0 +1,55 @@
+body{
+    font-family: Arial;
+}/* seletor de tag */
+
+p{
+    font-size: 14px;/* tamanho da fonte */
+    font-weight: bold;/* peso da fonte */
+    text-align: justify;/* alinhamento do texto */
+    line-height: 20px;/* distancia entre as linhas, sempre coloque um tamanho maior que a fonte usada */
+}
+
+h2{
+    font-style: italic;/* estilo da fonte */
+    text-align: center;
+}
+
+h1{
+    text-transform: uppercase;/* transformar a fonte  */
+    text-align: center;
+}
+
+/* Seletor de id começa sempre com # */
+#seletorID{
+    color:red;
+}
+
+.seletorClasse{
+    background-color: aqua;
+}
+
+.seletorClasse2{
+    color: chartreuse;
+}
+
+/* Ainda existem os seletores COMBINADOS que só estilizarão o elemnto que atender as condiçoes estabelecidas, no caso abaixo deve ser um h2 com a class=subtitulo exemplo: 
+h2.subtitulo{
+    color: gray;
+}
+*/
+
+/* Seletores DESCENDENTES, que agregam especificidade. Exemplo
+<ul id="lista">
+    <li></li>
+</ul>
+
+ul# li{
+    text-align: center;
+}
+Para chamé-lo desde o css, escrevemos os seletores separados por um espaço ( isto indica paternidade)
+*/
+
+/* 
+    !!OBS: O CSS sempre vai priorizar os seletores mais ESPECÍFICOS para aplicar os estilos
+*/
+
