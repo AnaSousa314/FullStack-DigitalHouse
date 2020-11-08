@@ -1,0 +1,27 @@
+body{
+    /* background-color: orange; */
+    /* background-color: #ccc; hexadecimal*/
+    /* background-color: rgb(25, 27, 29); RGB*/
+    /* background-color: rgba(25, 27, 29,0.5); RGBA*/
+    opacity: 0.5;/* dá transparência a todo o elemento e não apenas ao background */
+
+    /* background-image:url(../img/01.png); */
+    background-image: url(https://images3.alphacoders.com/621/621682.jpg);
+    /* Essas propiedades abaixo são usadas quando a imagem é repetida no plano de fundo */
+    background-size: cover;  /* pode por cover no lugar de 100% */
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; repete na horizontal*/
+    /* background-repeat: repeat-y; repete na vertical*/
+    /* background-position: right bottom; */
+
+    background-attachment: fixed; /* defini se a imagem do background se moverá junto com a página durante o scroll ou se permanecerá fixa */
+
+}
+
+p{
+    color: rgba(255, 0, 0, 0.5);
+}
+
+h1,h2{
+    color: beige;
+}
