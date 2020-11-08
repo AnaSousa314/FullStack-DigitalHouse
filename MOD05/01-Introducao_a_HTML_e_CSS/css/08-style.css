@@ -1,0 +1,33 @@
+body{
+    font-family: Arial;
+}/* seletor de tag */
+
+p{
+    font-size: 14px;/* tamanho da fonte */
+    font-weight: bold;/* peso da fonte */
+    text-align: justify;/* alinhamento do texto */
+    line-height: 20px;/* distancia entre as linhas, sempre coloque um tamanho maior que a fonte usada */
+}
+
+h2{
+    font-style: italic;/* estilo da fonte */
+    text-align: center;
+    text-decoration: underline;
+}
+
+h1{
+    text-transform: uppercase;/* transformar a fonte  */
+    text-align: center;
+}
+
+#seletorID{
+    color:red;
+}
+
+.seletorClasse{
+    background-color: aqua;
+}
+
+.seletorClasse2{
+    color: chartreuse;
+}
