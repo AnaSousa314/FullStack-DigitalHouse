@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+</head>
+<body>
+    <h1>Radio Button e Checkbox</h1>
+
+    <form>
+        <label for="nome">Nome</label>
+        <input type="text" id="nome" name="nome" placeholder="Digite seu nome">
+
+        <br>
+
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" placeholder="nome@email.com">
+
+        <br>
+
+        <label for="senha">Senha</label>
+        <input type="password" name="senha" id="senha">
+
+        <br><br>
+
+        <label>Você já foi ao cinema esse ano?</label>
+
+        <br>
+
+        <!-- Esse value no input radio serve para sabermos a informação que o usuário selecionou -->
+        <input type="radio" id="sim" value="sim" name="cinema" checked><label for="sim" >Sim</label>
+
+        <br>
+
+        <!-- Os dois inputs radio precisam ter o mesmo name para que o usuário só consiga escolher um. É interessante que o label tenha o for com o mesmo nome que o id do input ao qual ele se refere, dessa forma a página entende que o usuário pode clicar no label que ele estará se referindo ao input com o mesmo id. -->
+        <input type="radio" id="nao" value="nao" name="cinema" ><label for="sim">Não</label>
+
+        <br>
+
+        <label for="genero">Qual o seu gênero de cinema favorito?</label>
+        <br>
+        <!-- Os inputs checkbox devem possuir o mesmo name a todos os elementos que fazem parte do mesmo grupo-->
+        <input type="checkbox" id="acao" name="genero" value="acao" checked><label for="acao">Ação</label>
+        <br>
+        <input type="checkbox" id="romance" name="genero" value="romance"><label for="romance">Romance</label>
+        <br>
+        <input type="checkbox" id="suspense" name="genero" value="suspense"><label for="suspense">Suspense</label>
+
+        <br>
+
+        <button type="submit">Enviar</button>
+
+    </form>
+    
+</body>
+</html>
