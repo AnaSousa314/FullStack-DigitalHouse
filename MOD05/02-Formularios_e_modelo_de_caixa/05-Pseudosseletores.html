@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="./05-Pseudosseletores.css">
+    <title>Formularios III</title>
+</head>
+<body>
+
+    <h1>Formulários III</h1>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro autem hic, modi, molestiae illum nesciunt quos laboriosam laborum placeat ipsa sit quibusdam, dolorem eligendi eveniet aspernatur! Ipsa atque at officiis?</p>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, dolorum nostrum facilis fugiat ut eveniet sit deleniti recusandae ipsa odit dolores illum doloribus voluptate quas enim impedit magnam harum dolore.</p>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis repudiandae voluptatum ipsa amet. Nostrum rerum, quod ratione repellendus provident dolore nam quis, ea assumenda odit tenetur? Adipisci molestias quasi earum?</p>
+
+    <form>
+        <label for="nome">Nome</label>
+        <input type="text" id="nome" name="nome" placeholder="Digite seu nome" required>
+        <br>
+
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" placeholder="nome@email.com" required>
+        <br>
+
+        <label for="senha">Senha</label>
+        <input type="password" name="senha" id="senha" required>
+
+        <br><br>
+
+        <label>Você já foi ao cinema esse ano?</label>
+        <br>
+
+        <input type="radio" id="sim" value="sim" name="cinema" checked><label for="sim" >Sim</label>
+        <br>
+
+        <input type="radio" id="nao" value="nao" name="cinema" ><label for="sim">Não</label>
+        <br>
+
+        <label for="genero">Qual o seu gênero de cinema favorito?</label>
+        <br>
+
+        <input type="checkbox" id="acao" name="genero" value="acao" checked><label for="acao">Ação</label>
+        <br>
+        
+        <input type="checkbox" id="romance" name="genero" value="romance"><label for="romance">Romance</label>
+        <br>
+        
+        <input type="checkbox" id="suspense" name="genero" value="suspense"><label for="suspense">Suspense</label>
+        <br>
+
+        <label for="pais"></label>
+
+        <select name="pais" id="pais">
+            <option selected disabled>Selecione</option>
+            <option value="BRA">Brasil</option>
+            <option value="AR">Argentina</option>
+            <option value="UY">Uruguai</option>
+        </select>
+
+        <br>
+            <label for="mensagem">Mensagem</label>
+            <br>
+            <textarea name="mensagem" id="mensagem" cols="30" rows="5"></textarea>
+        <br>
+
+        <button type="button">Teste</button>
+
+        <button type="reset">Limpar campos</button>
+        
+        <button type="submit">Enviar</button>
+
+    </form>
+    
+</body>
+</html>
