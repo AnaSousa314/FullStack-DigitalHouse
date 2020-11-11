@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios III</title>
+</head>
+<body>
+
+    <!-- Aprendemos a colocar o required nos inputs, select e text-area para que seja obrigatório que o usuário preencha esses campos, aprendemos a usar a tag select com os seus options, deixando o primeiro option somente para iformar que o usuário deve selecionar uma dessas opções, e esse primeiro option fica com o atributo disabled para que o usuário não consiga enviá-lo como resposta. Aprendemos a usar a tag textarea com seu atributo col(largura) e row(comprimento). E aprendemos a usar o button tipo reset que limpa todos os dados preenchidos do formulário, e o button tipo button para que atribuamos alguma funcionalidade pelo javaScript. -->
+
+    <h1>Formulários III</h1>
+
+    <form>
+        <label for="nome">Nome</label>
+        <input type="text" id="nome" name="nome" placeholder="Digite seu nome" required>
+        <br>
+
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" placeholder="nome@email.com" required>
+        <br>
+
+        <label for="senha">Senha</label>
+        <input type="password" name="senha" id="senha" required>
+
+        <br><br>
+
+        <label>Você já foi ao cinema esse ano?</label>
+        <br>
+
+        <input type="radio" id="sim" value="sim" name="cinema" checked><label for="sim" >Sim</label>
+        <br>
+
+        <input type="radio" id="nao" value="nao" name="cinema" ><label for="sim">Não</label>
+        <br>
+
+        <label for="genero">Qual o seu gênero de cinema favorito?</label>
+        <br>
+
+        <input type="checkbox" id="acao" name="genero" value="acao" checked><label for="acao">Ação</label>
+        <br>
+        
+        <input type="checkbox" id="romance" name="genero" value="romance"><label for="romance">Romance</label>
+        <br>
+        
+        <input type="checkbox" id="suspense" name="genero" value="suspense"><label for="suspense">Suspense</label>
+        <br>
+
+        <label for="pais"></label>
+        <select name="pais" id="pais">
+            <option selected disabled>Selecione</option>
+            <option value="BRA">Brasil</option>
+            <option value="AR">Argentina</option>
+            <option value="UY">Uruguai</option>
+        </select>
+
+        <br>
+            <label for="mensagem">Mensagem</label>
+            <br>
+            <textarea name="mensagem" id="mensagem" cols="30" rows="5"></textarea>
+        <br>
+
+        <button type="button">Teste</button>
+
+        <button type="reset">Limpar campos</button>
+        
+        <button type="submit">Enviar</button>
+
+    </form>
+    
+</body>
+</html>
