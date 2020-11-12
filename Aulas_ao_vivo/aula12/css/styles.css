@@ -1,0 +1,44 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+  } */
+
+  /* Falar para o professor como resolver a ocupação da página com a estilização abaixo */
+html,
+body {
+  /* com a estilização do html e do body logo abaixo, conseguimos dizer a pagina que ela deve ocupar todo o espaço disponível */
+  height: 100%;
+}
+
+/* HEADER */
+header{
+    background-color: #ffb90f;
+    width: 100%;
+    height: 10%;
+    margin-top: 70px;
+    position: relative;
+}
+
+
+
+header nav img{
+    position: absolute;
+    width: 200px;
+    margin-top: -65px;
+   
+}
+
+header nav ul{
+    list-style-type: none;  
+    display: inline-block; 
+    margin-left: 160px;
+    height: 60px;
+}
+
+header nav ul li{
+    list-style-type: none;  
+    display: inline-block; 
+
+    
+}

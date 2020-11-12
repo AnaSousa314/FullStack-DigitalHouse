@@ -1,0 +1,13 @@
+.blocks{
+    background-color: #f2f2f2;
+    display: flex;
+    flex-wrap: wrap;
+}
+.block{
+    background-color: #1abc9a;
+    height: 40px;
+    width: 40px;
+    margin: 4px;
+    padding: 4px;
+    border: 1px solid black;
+}
