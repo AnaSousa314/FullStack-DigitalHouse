@@ -1,0 +1,24 @@
+div.caixa1{
+background-color: orange;
+border: 5px dotted;
+}
+
+div.caixa2{
+background-color: blue;
+border: 5px solid black;
+}
+
+div.caixa3{
+background-color: crimson;
+border: 5px dashed;
+}
+
+div{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 30px /* 100px */ /* auto */;
+    padding: 40px;
+    /* border: 3px solid ; */
+}
+
