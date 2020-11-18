@@ -31,7 +31,7 @@ header nav img{
 
 header nav ul{
     list-style-type: none;  
-    display: inline-block; 
+    /* display: inline-block; */ /* como lá abaixo essa estilização já está aplicada a 'header nav' não é necessário aplicar aqui */
     margin-left: 160px;
     /* height: 60px; *//*  */
 }
@@ -48,6 +48,7 @@ header nav ul li{
 PS.: as partes acima que tiverem marcação também foram feitas na aula13
 */
 
+/* boa prática é usar sem por classe só até 5 tags */
 header nav ul li a{
     text-decoration: none;
     color: #fff;
@@ -61,4 +62,58 @@ header nav, header form{
 
 header form{
     margin-left: 400px;
+}
+
+
+/* CONTAINER */
+
+.container{
+    width: 900px;
+    height: 650px;
+
+    /* aqui o margin vai agir em cima do que foi colocado pelos atributos acima */
+    margin: 40px auto;
+}
+
+/* SECTION PRODUTOS */
+.product-image{
+    background-image: url("../img/product-1.jpg");/* confundi aqui, faltava ../ */
+}
+
+
+.products{
+    display: inline-block;
+    /* width: 300px; eu alterei para dar no meu*/
+    width: 270px;
+    height: 300px;/* shift+tab */
+    background-position: center;
+    background-size: cover;
+    margin: 0 15px 15px 0;
+}
+
+.img-label{
+    width: 70px;
+    margin: 5px 0 0 190px /* 260px eu alterei para dar no meu*/;
+}
+
+.name-product{
+    /* width: 90px; */
+    height: 40px;
+    color: white;
+    background-color: #101010;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 10px;
+}
+
+
+.see-more{
+    width: 100px;
+    height: 50px;
+
+    background-color: orangered;
+    color: #fff;
+
+    margin: 35px 85px;
 }
