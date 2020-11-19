@@ -1,0 +1,77 @@
+<!-- Podemos usar class e id na mesma tag ? -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Craftsy - Contato</title>
+    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="stylesheet" href="./css/contato.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <img src="./img/logo.png" alt="Logo" />
+
+        <ul>
+          <li><a href="#smartphones">Smartphones</a></li>
+          <li><a href="">Tablet</a></li>
+          <li><a href="./contato.html" target="blank">Contato</a></li>
+        </ul>
+      </nav>
+
+      <form action="">
+        <input type="text" placeholder="Pesquise produto" />
+        <button>Enviar</button>
+      </form>
+    </header>
+
+    <main class="container">
+      <section>
+        <h1>Fale conosco</h1>
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam
+          impedit quo, assumenda nulla fuga modi consectetur earum numquam
+          reprehenderit quos. Quidem quasi repudiandae dolor aliquam a sapiente
+          dolore magni. Expedita!
+        </p>
+
+        <form action="" class="form-contatct">
+          <div>
+            <div class="form-inline m-10">
+              <label for="nome">Nome</label>
+              <input type="text" name="nome" id="nome" />
+            </div>
+
+            <div class="form-inline m-10">
+              <label for="email">Email</label>
+              <input type="email" name="email" id="email" />
+            </div>
+          </div>
+
+          <!-- Desafio - a tag textarea terá que possuir: largura de 635px e não poderá ter resize
+
+        o botao Enviar terá que possuir: largura de 100px, altura de 30px, sem borda, 
+        arredondado em 5px, tamanho de fonte de 20px e a cor do botão com o hexadecimal #ffb90f
+  -->
+          <div class="m-10">
+            <label for="mensagem">Mensagem</label>
+            <textarea
+              name="mensagem"
+              id="mensagem"
+              cols="30"
+              rows="10"
+            ></textarea>
+          </div>
+
+          <div class="m-10"> 
+            <button class="form-button">Enviar</button>
+          </div>
+        </form>
+      </section>
+    </main>
+ 
+    <footer>Craftsy - 2020</footer>
+  </body>
+</html>
