@@ -1,0 +1,69 @@
+div{
+    border: 3px solid gray;
+    padding: 30px;
+    margin: 30px;
+}
+
+header, main, footer{
+    border: 3px solid gray;
+    padding: 30px;
+    margin: 30px;
+}
+
+section{
+    border-top: 2px dotted gray;
+    border-bottom: 2px dotted gray;
+}
+
+article{
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #ffa600ad;
+}
+
+span{
+    background-color: aqua;
+}
+
+section.noticias{
+    overflow: hidden;
+}
+
+article{
+    float: left;
+    width: 30%;
+}
+
+
+/* 
+    A media querie deve ser sempre escrita ao final do nosso css
+*/
+
+@media (max-width: 1300px){
+    article{
+        width: 100%;
+    }
+}
+/* Significa que abaixo da largura máxima de 1300px, o article ao invés de ficar lado a lado, ele passa a ocupar 100% da largura da tela. */
+
+/* 
+    Mobile First: significa que primeiro especificaremos os estilos em mobile depois faremos o media querie para adequar aos outros viewports(tablet, desktop)
+    Ex:
+    Mobile
+    body{
+        background:red
+    }
+
+    Tablet
+    @media (min-width: 460px){
+        //tablet
+    
+    }
+
+    Desktop
+    @media (min-width: 460px){
+        //Desktop
+    }
+
+    Mobile Last: é o contrário do anterior, estiliza primeiro para Desktop e depois para outros dispositivos
+*/
