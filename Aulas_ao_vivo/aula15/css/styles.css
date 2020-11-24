@@ -1,0 +1,153 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+  } */
+
+html,
+body {
+  height: 100%;
+}
+
+/* HEADER */
+header{
+    background-color: #ffb90f;
+    width: 100%;
+    height: 15%;
+    margin-top: 70px;
+    position: relative;
+
+    display: flex;
+    align-items: center; 
+}
+
+header nav img{
+    position: absolute;
+    width: 200px;
+    margin-top: -65px;
+}
+
+header nav ul{
+    list-style-type: none;  
+    margin-left: 160px;
+    
+    display: flex; 
+}
+
+header nav ul li{
+    /* display: inline-block; */ 
+
+    padding: 0px 0 0 50px;   
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+header nav, header form{
+    /* display: inline-block; */
+}
+
+header form{
+    margin-left: 400px;
+}
+
+
+/* CONTAINER */
+
+.container{
+    width: 900px;
+    height: 650px;
+    margin: 40px auto;
+}
+
+/* SECTION PRODUTOS */
+section{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product-image{
+    background-image: url("../img/product-1.jpg");
+}
+
+
+.products{
+    /* display: inline-block; */
+    /* width: 300px; eu alterei para dar no meu*/
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    width: 270px;
+    height: 300px;/* shift+tab */
+    background-position: center;
+    background-size: cover;
+    margin: 0 15px 15px 0;
+}
+
+.img-label{
+    width: 70px;
+    /* margin: 5px 0 0 195px /* 260px eu alterei para dar no meu*/; 
+    align-self: flex-end;  /* coloca imagem a direita */ 
+}
+
+.name-product{
+    /* width: 90px; */
+    height: 40px;
+    color: white;
+    background-color: #101010;
+    font-size: 20px;
+    text-align: center;
+    /* margin-top: 50px; */
+/*     padding-top: 10px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.see-more{
+    width: 90px;
+    height: 40px;
+
+    background-color: #ff4500;
+    color: #fff;
+
+   /*  margin: 45px 0 0 85px; */
+
+   position: relative;
+   align-self: center;
+   /* top: -25px; */
+   bottom: 30px;
+}
+
+
+/* FOOTER */
+footer{
+    background-color: #ffb90f;
+    height: 100px;
+    width: 100%;
+    color: white;
+    /* text-align: center; */
+    border-radius: 20px 20px 0 0;
+    /* line-height: 100px;macete de como centralizar o conteudo no container */
+    font-size: 20px;/*  */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* PSEUDO-SELETORES */
+
+.products:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+header form input:focus{
+    outline-color: blue;
+}
+
