@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.caixa{
+    width: 669px;
+    height: 300px;
+    margin: 20px auto;
+    border: 3px solid gray;
+
+    display: flex;
+    flex-wrap: wrap;
+
+    flex-direction: row;
+
+    justify-content: center;
+
+    align-items: center;
+}
+
+.caixa div{
+    padding: 20px;
+    background-color: orangered;
+    margin: 10px;
+    width: 100px;
+}
+
+.item1{
+    flex-grow: 1;
+    /* align-self: flex-start; */
+    
+}
+
+/* O atributo order muda a ordenação dos elementos colocados no html. As caixas serão ordenadas respeitando a sequência dos números negativos para os positivos. */
+
+/* Flex-grow - com essa propriedade, definimos quanto um item pode crescer se houver espaço livre no contêiner. Configura um crescimento flexível para o item. */
+
+/* align-self - nos permite alinhar, sobre o cross axis, a cada item ao qual aplicamos essa propriedade, independetemente do alinhamento que foi definido no contêiner flex com align-items */
+
+.item2{
+    flex-grow: 1;
+    align-self: flex-end;
+    order: 1;/* manda para o final */
+}
+
+.item3{
+    flex-grow: 1;
+    align-self: stretch;
+    order: -1;/* manda para o começo */
+}
