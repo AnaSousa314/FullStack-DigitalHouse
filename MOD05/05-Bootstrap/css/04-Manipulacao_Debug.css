@@ -1,0 +1,47 @@
+article{
+    background-color: #ccc;
+    color: #fff;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+h1{
+    color: orangered;
+}
+
+
+/* Sobrescreve a estilização do Bootstrap */
+button.btn.btn-primary{
+    background-color: orangered;
+    border-color: orangered;
+
+    margin: 40px 0;
+}
+
+
+/* Nunca altere a grid */
+/* .col-md-9{
+    margin: 50px;
+} */
+
+
+/* 
+    Temas e templates são apenas estilos para o Bootstrap.
+    Os temas apenas modificam os estilos do Bootstrap e os templates já tem páginas configuradas para que possamos modificar.
+
+    Bootstrap themes: https://themes.getbootstrap.com/
+    A grande maioria são pagos.
+
+    Theme Forest: https://themeforest.net/category/site-templates?sort=sales&tags=bootstrap&view=grid
+    É um dos maiores lugares de templates, e não apenas o Bootstrap. Também são pagos
+
+    Start Bootstrap: https://startbootstrap.com/
+    Temas e templates gratuitos
+
+
+    
+*/
