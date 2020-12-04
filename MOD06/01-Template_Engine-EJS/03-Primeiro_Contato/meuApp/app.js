@@ -17,6 +17,8 @@ app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
+
+/* Com essa linha estamos dando livre acesso ao Epress para tudo dentro da pasta pública, as outras pastas não tem o mesmo recurso, a não ser façamos para ela o mesmo da linha abaixo */
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
