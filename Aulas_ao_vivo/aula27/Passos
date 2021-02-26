@@ -1,0 +1,11 @@
+Passos p trabahar nosso cadastro de usuários
+
+1º passo: temos que criar primeiro 1 rota; ok
+
+2: criar um controller usuários ok
+
+3º passo: já q irá nos levar para uma tela de cadastro de usuário, temos q pensar no segundo passo criando uma view; ok
+
+4ª Fazer com q tenhamos um metodo controller q retorne a view criada no passo anterior
+
+5º : Criara um metodo no controller p cadastrar o  usuário efetivamente;
