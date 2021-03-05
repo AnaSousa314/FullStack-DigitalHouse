@@ -56,12 +56,13 @@ module.exports = {
       return res.render('login',{notFound: true});
     }//ele pega o password colocado pelo o usuario e verifica se ele é igual ao o que está encriptado no sistema, se for diferente ele para o processo e faz o mesmo do outro if
 
-    // removendo propriedade password p q o usuario não trafegue com sua senha
+    // removendo propriedade password p q o usuario não trafegue com sua senha. Diferente da ultima aula, não estamos excluindo o password de user, criamos uma copia dele para ser usada pela session
 
-    delete user.password;
+    let {password: pass, ...userWithoutPassword} = user;
+
 
     /* criacao de sessao para o usuario logado */
-    req.session.user = user;
+    req.session.user = userWithoutPassword;
 
     //console.log(req.session.user);
 

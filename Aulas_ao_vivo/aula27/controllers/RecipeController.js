@@ -5,7 +5,7 @@ const saveData = require('../utils/saveData')
 
 module.exports = {
     index(req, res, next){
-      res.render('recipes', { recipes: recipes });
+      res.render('recipes', { recipes: recipes, user: req.session.user });
     },
 
     save(req,res,next){
@@ -38,7 +38,7 @@ module.exports = {
 
       console.log(recipe)
 
-     res.render('edit-recipe',{recipe});
+     res.render('edit-recipe',{recipe, user: req.session.user});
       
     },
     async updated(req,res,next){
@@ -58,7 +58,7 @@ module.exports = {
 
       saveData(recipes,'recipes.js')
 
-      res.render('edit-recipe',{recipe, updated: true})
+      res.render('edit-recipe',{recipe, updated: true, user: req.session.user})
 
     },
 
@@ -83,7 +83,7 @@ module.exports = {
       saveData(recipesFilter,'recipes.js')
       
 
-      res.render('recipes',{recipes: recipesFilter, deleted: true})
+      res.render('recipes',{recipes: recipesFilter, deleted: true, user: req.session.user})
     }
   }
   
